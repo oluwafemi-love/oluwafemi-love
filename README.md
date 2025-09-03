@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olúwafẹ́mi Adéwùnmí</h1>
 <h3 align="center">A developer and designer with a passion for building and a knack for creative problem-solving!</h3>
 
-- 🔭 I’m currently studying at **Chas Academy**
+- 🔭 I’m currently studying at [Chas Academy](https://chasacademy.se/)
 
 - 🌱 I’m currently learning **Frontend and Web Technologies**
 
