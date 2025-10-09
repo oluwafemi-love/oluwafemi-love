@@ -3,15 +3,9 @@
 
 - 🔭 I’m currently studying at [Chas Academy](https://chasacademy.se/)
 
-- 🌱 I’m currently learning **Frontend and Web Technologies**
+- 👨‍💻 Check what I am up to here [https://oluwafemilove.ng/](https://oluwafemilove.ng/)
 
-- 👯 I’m looking to collaborate on **Web App & Game Projects**
-
-- 👨‍💻 All of my projects are available at [https://oluwafemilove.ng/](https://oluwafemilove.ng/)
-
-- 📝 I regularly write articles on [https://medium.com/@oluwafemilove](https://medium.com/@oluwafemilove)
-
-- 💬 Ask me about **React, JS, Game Design & Development**
+- 💬 Ask me about **Web dev (Front), Game Design & Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
