@@ -1,14 +1,34 @@
-<h1 align="center">Hi 👋, I'm Olúwafẹ́mi Adéwùnmí</h1>
-<h3 align="center">A developer and designer with a passion for building and a knack for creative problem-solving!</h3>
+<h1 align="center">Hej👋, I'm Olúwafẹ́mi Adéwùnmí</h1>
+<h3 align="center">
+  A developer and designer with a passion for building and a knack for
+  creative problem-solving!
+</h3>
 
-- 🔭 I’m currently studying at [Chas Academy](https://chasacademy.se/)
+<br />
+<hr />
+
+📙 I'm currently studying at [Chas Academy](https://chasacademy.se/)
+
+<br />
+<hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/oluwafemilove/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oluwafemilove/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/oluwafemilove_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oluwafemilove_/" height="30" width="40" /></a>
-<a href="https://dribbble.com/oluwafemilove" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/oluwafemilove" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/oluwafemilove/" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.linkedin.com/in/oluwafemilove/" height="30" width="40" />
+  </a>
+  
+  <a href="https://dribbble.com/oluwafemilove" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
+      alt="https://dribbble.com/oluwafemilove" height="30" width="40" />
+  </a>
 </p>
+
+<br />
+<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -51,11 +71,8 @@
       width="40" height="40" />
   </a>
 
-  
   <!-- FIGMA -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
-
-
 </p>
