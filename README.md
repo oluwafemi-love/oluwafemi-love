@@ -37,10 +37,37 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />
   </a>
+  
   <!-- REACT -->
   <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
+  </a>
+
+   <!-- NextJS -->
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;" rel="noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />     
+  </a>
+
+  <!-- NodeJS -->
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;" rel="noreferrer">   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>     
+  </a>
+
+   <!-- Docker -->
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />  
+  </a>
+
+   <!-- AWS -->
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>     
+  </a>
+
+   <!-- C# -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
+      width="40" height="40" />
   </a>
 
   <!-- TAILWIND -->
@@ -48,9 +75,16 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
       height="40" />
   </a>
+
+  <!-- Typescript -->
   <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript" width="40" height="40" />
+  </a>
+
+  <!-- React Native -->
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="react-native" width="40" height="40" /> 
   </a>
 
   <!-- CSS -->
@@ -65,14 +99,21 @@
       alt="html5" width="40" height="40" />
   </a>
 
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-      width="40" height="40" />
-  </a>
-
   <!-- FIGMA -->
   <a href="https://www.figma.com/" target="_blank" style="text-decoration: none;" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
+
+  <!-- Illustrator -->
+  <a href="https://www.figma.com/" target="_blank" style="text-decoration: none;" rel="noreferrer">       
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" alt="Illustrator" width="40" height="40" />   
+  </a>
+
+  <!-- Photoshop -->
+  <!-- <a href="https://www.figma.com/" target="_blank" style="text-decoration: none;" rel="noreferrer">   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" />    
+  </a> -->
+
 </p>
+
+[![Oluwafemi's GitHub stats](https://github-stats-extended.vercel.app/api?username=oluwafemi-love)](https://github.com/stats-organization/github-stats-extended)
