@@ -1,6 +1,6 @@
 <h1 align="center">Hej👋, I'm Olúwafẹ́mi Adéwùnmí</h1>
 <h3 align="center">
-    A thinker, a builder, a human who dares to dream — and build.
+    A thinker, a builder, a human who dares to dream and build.
 </h3>
 
 <br />
@@ -118,9 +118,11 @@
 <br />
 <hr />
 
-[![Oluwafemi's GitHub stats](https://github-stats-extended.vercel.app/api?username=oluwafemi-love)](https://github.com/stats-organization/github-stats-extended)
 
-<br />
-<hr />
+<h3 align="left">Stats:</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oluwafemi-love&color=brightgreen)
+
+[![Oluwafemi's GitHub stats](https://github-stats-extended.vercel.app/api?username=oluwafemi-love)](https://github.com/stats-organization/github-stats-extended)
+
+
