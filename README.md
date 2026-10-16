@@ -1,7 +1,6 @@
 <h1 align="center">Hej👋, I'm Olúwafẹ́mi Adéwùnmí</h1>
 <h3 align="center">
-  A developer and designer with a passion for building and a knack for
-  creative problem-solving!
+    A thinker, a builder, a human who dares to dream — and build.
 </h3>
 
 <br />
@@ -37,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />
   </a>
-  
+
   <!-- REACT -->
   <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -116,4 +115,12 @@
 
 </p>
 
+<br />
+<hr />
+
 [![Oluwafemi's GitHub stats](https://github-stats-extended.vercel.app/api?username=oluwafemi-love)](https://github.com/stats-organization/github-stats-extended)
+
+<br />
+<hr />
+
+![Profile Views](https://komarev.com/ghpvc/?username=oluwafemi-love&color=brightgreen)
