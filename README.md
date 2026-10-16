@@ -11,24 +11,6 @@
 <br />
 <hr />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/oluwafemilove/" target="_blank" style="text-decoration: none;">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/oluwafemilove/" height="30" width="40" />
-  </a>
-  
-  <a href="https://dribbble.com/oluwafemilove" target="_blank" style="text-decoration: none;">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-      alt="https://dribbble.com/oluwafemilove" height="30" width="40" />
-  </a>
-</p>
-
-<br />
-<hr />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- JAVASCRIPT -->
@@ -118,11 +100,26 @@
 <br />
 <hr />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/oluwafemilove/" target="_blank" style="text-decoration: none;">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.linkedin.com/in/oluwafemilove/" height="30" width="40" />
+  </a>
+  
+  <a href="https://dribbble.com/oluwafemilove" target="_blank" style="text-decoration: none;">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
+      alt="https://dribbble.com/oluwafemilove" height="30" width="40" />
+  </a>
+</p>
+
+<br />
+<hr />
 
 <h3 align="left">Stats:</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oluwafemi-love&color=brightgreen)
 
 [![Oluwafemi's GitHub stats](https://github-stats-extended.vercel.app/api?username=oluwafemi-love)](https://github.com/stats-organization/github-stats-extended)
-
-
