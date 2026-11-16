@@ -6,7 +6,8 @@
 <br />
 <hr />
 
-📙 I'm currently studying at [Chas Academy](https://chasacademy.se/)
+📙 Grokking at [Chas Academy](https://chasacademy.se/)
+🛠️ Fixing, Building & Learning at [Foggy Media](https://foggymedia.com/)
 
 <br />
 <hr />
